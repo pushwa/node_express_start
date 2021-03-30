@@ -4,3 +4,5 @@
 
 För att köra server lokalt:
 npm run dev
+
+Du måste ha nodemon installerat (via npm)
