@@ -13,5 +13,5 @@ const about = require('./routes/about');
 app.use(index);
 app.use(about);
 
-const PORT = process.env.PORT || 3000;
-app.listen(PORT);
+const port = process.env.PORT || 3000;
+app.listen(port);
